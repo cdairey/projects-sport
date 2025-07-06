@@ -216,4 +216,4 @@ When you lay a bet:
 - If it does occur, you pay out based on the odds.
 
 In this example:
-- No matter the match result, your **liability is covered**, and you're left with a **guaranteed break-even or
+- No matter the match result, your **liability is covered**, and you're left with a **guaranteed break-even or profit**
