@@ -1,0 +1,4 @@
+
+config:
+  API_URL: https://api.the-odds-api.com/v4/sports/
+  API_KEY: YOUR_API_KEY_HERE

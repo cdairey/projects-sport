@@ -1,0 +1,7 @@
+requests
+PyYAML
+pandas
+numpy
+scipy
+ipywidgets
+ipython
